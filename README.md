@@ -39,27 +39,28 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 02. | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Revising-the-select-Query-2.sql) | 10 | Easy |
 | 03. | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/select%20all.sql) | 10 | Easy |
 | 04. | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Select%20By%20ID.sql) | 10 | Easy |
-| 05. | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution]() | 10 | Easy |
-| 06. | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution]() | 10 | Easy |
-| 07. | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution]() | 15 | Easy |
-| 08. | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution]() | 10 | Easy |
-| 09. | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution]() | 10 | Easy |
-| 10. | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution]() | 30 | Easy |
-| 11. | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution]() | 10 | Easy |
-| 12. | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution]() | 10 | Easy |
-| 13. | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution]() | 15 | Easy |
-| 14. | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution]() | 10 | Easy |
-| 15. | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution]() | 10 | Easy
-| 16. | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution]() | 15 | Easy |
-| 17. | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution]() | 15 | Easy |
-| 18. | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution]() | 15 | Easy |
-| 19. | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution]() | 10 | Easy |
-| 20. | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution]() | 10 | Easy |
+| 05. | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Japanese%20Cities'%20Attributes.sql) | 10 | Easy |
+| 06. | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Japanese%20Cities%20Names.sql) | 10 | Easy |
+| 07. | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%201.sql) | 15 | Easy |
+| 08. | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%202.sql) | 15 | Easy |
+| 09. | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%203.sql) | 10 | Easy |
+| 10. | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%204.sql) | 10 | Easy |
+| 11. | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%205.sql) | 30 | Easy |
+| 12. | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%206.sql) | 10 | Easy |
+| 13. | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%207.sql) | 10 | Easy |
+| 14. | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%208.sql) | 15 | Easy |
+| 15. | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%209.sql) | 10 | Easy |
+| 16. | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%2010.sql) | 10 | Easy
+| 17. | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%2011.sql) | 15 | Easy |
+| 18. | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Weather%20Observation%20Station%2012.sql) | 15 | Easy |
+| 19. | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql) | 15 | Easy |
+| 20. | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Employee%20Names.sql) | 10 | Easy |
+| 21. | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Employee%20Salaries.sql) | 10 | Easy |
 
 ### Advanced Select
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
-| 01. | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution]() | 20 | Easy |
+| 01. | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Advanced%20Select/Type%20of%20Triangle.sql) | 20 | Easy |
 | 02. | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution]() | 30 | Medium |
 | 03. | [Occupations ](https://www.hackerrank.com/challenges/occupations/problem) | [Solution]() | 30 | Medium |
 | 04. | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution]() | 30 | Medium |
