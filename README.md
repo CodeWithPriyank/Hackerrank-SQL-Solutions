@@ -36,9 +36,9 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | S.No. | Problem | Solution | Score | Difficulty |
 |--|--|--|--|--|
 | 01. | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Revising-the-select-Query-1.sql) | 10 | Easy |
-| 02. | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution]() | 10 | Easy |
-| 03. | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution]() | 10 | Easy |
-| 04. | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution]() | 10 | Easy |
+| 02. | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Revising-the-select-Query-2.sql) | 10 | Easy |
+| 03. | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/select%20all.sql) | 10 | Easy |
+| 04. | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/CodeWithPriyank/Hackerrank-SQL-Solutions/blob/main/Basic%20Select/Select%20By%20ID.sql) | 10 | Easy |
 | 05. | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution]() | 10 | Easy |
 | 06. | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution]() | 10 | Easy |
 | 07. | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution]() | 15 | Easy |
