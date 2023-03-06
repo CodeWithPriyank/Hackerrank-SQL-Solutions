@@ -23,8 +23,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 * [Advanced Select](#advanced-select)
 * [Aggregation](#aggregation)
 * [Basic Join](#basic-join)
-* [Advanced Join](#advanced-join)
-* [Alternative Queries](#alternative-queries)
+
 	
 </details>
 
