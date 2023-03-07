@@ -10,6 +10,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 - This repository contains solutions to [Hackerrank](https://Hackerrank.com) practice problems in SQL.
 - If you feel this repo is helpful for you, please do star it.
+- Follow me on [LinkedIn](https://www.linkedin.com/in/priyank-goswami-711495247)
 - Happy Coding 🥳!
 
 
